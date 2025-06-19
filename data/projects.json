@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Simple Alarm Circuit Using Touch Sensor With IC TTP223",
+        "year": "2023",
+        "partner": "Electronic Engineering Classmate",
+        "role": "Project Vice-Design",
+        "description": "Touch sensors detect touch on their surface through changes in capacitance, triggering an output signal to control an electronic circuit. In a simple alarm circuit, a touch sensor is used as a trigger to trigger an alarm sound. The output signal from the sensor goes to the TTP223 IC which activates the alarm sound. The way this touch sensor works is simple yet effective in controlling electronic circuits.",
+        "image": "images/project1-2023.jpg",
+        "link": ""
+    },
+    {
+        "title": "Line Follower Robot",
+        "year": "2023",
+        "partner": "Electronic Engineering Classmate",
+        "role": "Project Commander",
+        "description": "Designed and developed a fully functional line follower robot using infrared sensors and microcontroller programming. The robot was capable of autonomously navigating complex paths by detecting and following lines on various surfaces. This project enhanced my skills in electronics, programming (Arduino), sensor integration, and problem-solving under real-world conditions.",
+        "image": "images/project2-2023.jpg",
+        "link": ""
+    },
+    {
+        "title": "Feedmatic HydroGuard",
+        "year": "2023",
+        "partner": "Electronic Engineering Classmate",
+        "role": "Project Vice-Design",
+        "description": "Developed an automated fish feeding system named Feedmatic HydroGuard, designed to optimize feeding schedules in aquaculture environments. The system utilized a programmable microcontroller, real-time clock module, and moisture-resistant components to ensure consistent and timely food distribution. This project improved my knowledge in IoT integration, timing automation, and environmental sensor applications.",
+        "image": "images/project3-2023.jpg",
+        "link": ""
+    },
+    {
+        "title": "MeowMingle AquaNosh",
+        "year": "2024",
+        "partner": "Electronic Engineering Classmate",
+        "role": "Project Co-Leader",
+        "description": "Developed an automated system for scheduled cat feeding and water refilling. MeowMingle dispenses food at set times using a servo-controlled container, while AquaNosh uses a water level sensor and pump to maintain water supply. The system supports remote monitoring via smartphone, enhancing pet care efficiency and convenience.",
+        "image": "images/project4-2024.jpg",
+        "link": ""
+    },
+    {
+        "title": "PWM Signal Generator Module",
+        "year": "2025",
+        "partner": "Electronic Engineering Classmate",
+        "role": "Vice Engineering",
+        "description": "Designed a PWM (Pulse Width Modulation) generator module using the LM358 operational amplifier. The module produces adjustable PWM signals suitable for visualization on an oscilloscope, commonly used for testing and learning signal behavior in electronic circuits. This project deepened my understanding of analog electronics, signal processing, and oscilloscope interfacing.",
+        "image": "images/project5-2025.jpg",
+        "link": ""
+    }
+]

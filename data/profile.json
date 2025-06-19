@@ -1,0 +1,40 @@
+{
+    "name": "Maulana Ishaq Cakraningrat - Electronic Engineering Students",
+    "description": "I am an enthusiastic and motivated Computer Engineering student at State Polytechnic of Semarang, majoring in Electronic Engineering. With a strong interest in technology and innovation, I am passionate about exploring various aspects of computer systems, electronics, and programming. I enjoy learning new skills, solving technical problems, and applying theoretical knowledge to real-world situations through hands-on projects and teamwork. I am eager to grow both personally and professionally by taking part in opportunities that allow me to contribute, collaborate, and continue learning. My goal is to become a competent and creative engineer who can make a meaningful impact in the field of technology.",
+    "profileImage": "images/profileku.jpg",
+    "email": "maulana210904@gmail.com",
+    "phone": "+62 (856) 438-84138",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/maulana-ishaq-cakraningrat-b532532a4"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/micakra"
+        },
+        {
+            "platform": "X",
+            "url": "https://x.com/oznophile"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/micakra"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Electronic Engineering", "icon": "fas fa-bolt"},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip"},
+        {"name": "Programming PLC", "icon": "fas fa-network-wired"},
+        {"name": "Internet of Things", "icon": "fas fa-wifi"},
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	    {"name": "Mechanical Design", "icon": "fas fa-cogs"},
+        {"name": "Web Programming", "icon": "fab fa-js"},
+	    {"name": "Foreign Languages", "icon": "fas fa-globe"}
+    ]
+}

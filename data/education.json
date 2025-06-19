@@ -1,0 +1,23 @@
+[
+    {
+        "university": "Six Junior High School of Semarang",
+		"logo": "images/smp-logo.png",
+        "major": "",
+        "year": "2017 - 2019",
+        "description": "I attended Six Junior High School of Semarang, where I built a strong academic foundation and developed my early interest in science and technology."
+    },
+    {
+        "university": "Five Senior High School of Semarang",
+		"logo": "images/sma-logo.png",
+        "major": "Science",
+        "year": "2019 - 2022",
+        "description": "I pursued my high school education at Five Senior High School of Semarang, majoring in Science. During this time, I deepened my knowledge in subjects such as physics, biology, and mathematics, while also actively participating in extracurricular activities."
+    },
+    {
+        "university": "State Polytechnic of Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Diploma of Electronic Engineering",
+        "year": "2022 - Present",
+        "description": "Currently, I am studying Electronic Engineering at State Polytechnic of Semarang. This program has allowed me to explore various aspects of electronics, programming, and engineering design, preparing me for a career in the tech and innovation industry"
+    }
+]
