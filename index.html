@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Student</title>
+    <link rel="icon" type="image/x-icon" href="/images/redpandaicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="sidebar-nav">
+			<ul>
+				<li>
+					<a href="#profile" data-tooltip="Profile">
+						<i class="fas fa-user"></i>
+						<span class="nav-text">Profile</span>
+					</a>
+				</li>
+				<li>
+					<a href="#education" data-tooltip="Education">
+						<i class="fas fa-graduation-cap"></i>
+						<span class="nav-text">Education</span>
+					</a>
+				</li>
+				<li>
+					<a href="#experience" data-tooltip="Experience">
+						<i class="fas fa-briefcase"></i>
+						<span class="nav-text">Experience</span>
+					</a>
+				</li>
+				<li>
+					<a href="#projects" data-tooltip="Projects">
+						<i class="fas fa-code"></i>
+						<span class="nav-text">Research & Projects</span>
+					</a>
+				</li>
+			</ul>
+		</nav>
+    </header>
+
+    <main>
+        <!-- Profile Section -->
+		<section id="profile" class="section">
+			<div class="container">
+				<div class="profile-content">
+					<div class="profile-image-container">
+						<img id="profile-pic" src="" alt="Profile Picture" class="profile-image">
+						<div class="profile-contact">
+							<h3>Contact</h3>
+							<p><i class="fas fa-envelope"></i> <span id="profile-email"></span></p>
+							<p><i class="fas fa-phone"></i> <span id="profile-phone"></span></p>
+							<h3>Social media</h3>
+							<div class="social-links" id="social-links"></div>
+							<a href="#" id="cv-download" class="cv-download-btn" title="Download CV">
+								<i class="fas fa-file-pdf"></i>
+							</a>
+						</div>
+					</div>
+					<div class="profile-info">
+						<h1 id="profile-name"></h1>
+						    <p id="profile-description" style="text-align: justify;"></p>
+    						<!-- Add this skills section -->
+							<div class="skills-container" id="skills-container">
+								<h3>Skills</h3>
+								<div class="skills-grid" id="skills-grid"></div>
+							</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+        <!-- Education Section -->
+        <section id="education" class="section">
+            <div class="container">
+                <h2>Education</h2>
+                <div class="education-list" id="education-list"></div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="section">
+            <div class="container">
+                <h2>Internship Experience</h2>
+                <div class="experience-list" id="experience-list"></div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section">
+            <div class="container">
+                <h2>Projects</h2>
+                <div class="projects-grid" id="projects-grid"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="current-year"></span> Maulana Ishaq Cakraningrat</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
